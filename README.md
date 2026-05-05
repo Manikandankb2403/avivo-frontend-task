@@ -3,7 +3,7 @@
 ## 🚀 Setup Instructions
 
 1. Clone the repository:
-
+https://github.com/Manikandankb2403/avivo-frontend-task
 
 2. Navigate to project folder:
 cd avivo-frontend-task
