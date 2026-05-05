@@ -1,10 +1,13 @@
 # AVIVO Frontend Task
 
-## 🚀 Setup Instructions
+## 🚀 Live Demo
+https://avivo-frontend-task.vercel.app
+---
+
+## ⚙️ Setup Instructions
 
 1. Clone the repository:
-https://github.com/Manikandankb2403/avivo-frontend-task
-
+git clone https://github.com/Manikandankb2403/avivo-frontend-task
 2. Navigate to project folder:
 cd avivo-frontend-task
 
@@ -42,4 +45,4 @@ http://localhost:5173
 ## ⚠️ Notes
 
 - Add and Delete operations are handled locally (no backend interaction)
-- Refresh resets data from API
+- Refresh reloads data from API
